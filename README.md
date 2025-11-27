@@ -1,73 +1,63 @@
-# Welcome to your Lovable project
+# The Wedding Company — Frontend Assessment
 
-## Project info
+A modern, responsive, and interactive wedding planning website built for a frontend assessment.
 
-**URL**: https://lovable.dev/projects/363a2fb1-fb80-43de-9263-bbaec3697021
+**Live demo link**:
+➡️ https://the-wedding-company-frontend-assess.vercel.app/
 
-## How can I edit this code?
+**⭐ Features**
 
-There are several ways of editing your application.
+    Fully responsive layout
+    Clean UI and modular React components
+    Smooth animations & transitions
+    Optimized images and gallery layout
+    Fast performance with Vite
+    Hosted on Vercel
 
-**Use Lovable**
+📂 Project Structure
+```bash
+src/
+├─ components/
+├─ pages/
+├─ assets/
+├─ styles/
+├─ utils/
+├─ App.jsx
+└─ main.jsx
+```
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/363a2fb1-fb80-43de-9263-bbaec3697021) and start prompting.
+🚀 Getting Started
+-- 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/the-wedding-company.git
+```
 
-Changes made via Lovable will be committed automatically to this repo.
+-- 2. Navigate to Project
+```bash
+cd the-wedding-company
+```
 
-**Use your preferred IDE**
+-- 3. Install Dependencies
+```bash
+npm install
+```
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+-- 4. Start Development Server
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+**🛠️ Tech Stack**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+React.js
+Vite
+TailwindCSS
+JavaScript (ES6+)
+Vercel
 
-**Use GitHub Codespaces**
+🌐 Deployment
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Hosted on Vercel
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/363a2fb1-fb80-43de-9263-bbaec3697021) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Live link:
+➤ https://the-wedding-company-frontend-assess.vercel.app/
